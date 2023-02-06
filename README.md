@@ -3,7 +3,7 @@
 </p>
 <h1 align="center"> Chicago Neighborhood Soccer </h1>
 There's more to pickup soccer than meets the eye. Unstructured play requires organization. 
-Chicago Neighbhorhood Soccer, NBHD Soccer, is a homegrown grassroot organization founded and driven by local pick-up soccer players. We celebrate the players and work with local neighborhood communities. 
+Chicago Neighbhorhood (NBHD) Soccer is a homegrown, grassroots organization founded and driven by local pick-up soccer players. We celebrate Chicago's pick-up soccer players, and we give back to our local communities. 
 
 
 
@@ -16,7 +16,7 @@ Chicago Neighbhorhood Soccer, NBHD Soccer, is a homegrown grassroot organization
 
 
 ## Mission 
-Our mission is to make pickup soccer accessible and inclusive, while providing the best pickup soccer in the neighborhood by organizing communities and uniting players from different walks of life. 
+Our mission is to provide an accessible and inclusive community driven by a common love of the game. Together, we provide the best pick-up soccer in the neighborhood by organizing communities and uniting players from different walks of life. 
 
 
 ## Vision 
