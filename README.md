@@ -66,7 +66,7 @@ Join the community on [<img src="https://img.shields.io/badge/Discord-5865F2?sty
 - *Work in progress* - Sponsors
 
 <h2 align ="center"> ⭐️ People </h2>
-Chicago Neighborhood soccer is maintained by pickup players in the local chicago neighborhood. Join the discord to talk to the organization and to get involved.
+Chicago Neighborhood soccer is maintained by pickup players in the local chicago neighborhood. Join the discord to talk to the community and to get involved as contributor, maintainer, or even admin.
 
 
 
