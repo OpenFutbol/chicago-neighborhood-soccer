@@ -9,8 +9,6 @@ We want all members of this community to interact regardless of race, gender ide
 ## Belief
 Community Values we promote:
 
-Values we promote:
-
 - Be audience centered
 - Be calm and professional in discussions and communicate via active listening
 - Respectfully accepting evaluation and disapproval
