@@ -17,15 +17,15 @@ Community Values we promote:
 
 Values we do not promote:
 
-- Any kind of harassment   , aggression, and intimidation
+- Any kind of harassment, aggression, and intimidation
 - Personal threats & attacks, Stalking, vulgar language, Insulting statement
 - Sharing disrespecttful sketches or cartoons
-- Posting(social media, email etc.) any kind of information without permission
+- Disparaging Posting(social media, email etc.) on members of the community
 
 ## Reporting
-Project maintainers have all the rights to remove offensive content that are not aligned with our code of conduct. To report any complaint or inappropriate behavior you can also contact [nbhdsoccer@gmail.com](mailto:nbhdsoccer@gmail.com).
+Community & Project maintainers/admins have all the rights to remove offensive content that are not aligned with our code of conduct. To report any complaint or inappropriate behavior you can also contact [nbhdsoccer@gmail.com](mailto:nbhdsoccer@gmail.com).
 
 ## Enforcement
-If the NBHD team receive any misconduct which voilates our values, then violations of this Code of Conduct may result in:
+If the NBHD team receives any misconduct which voilates our values, then violations of this Code of Conduct may result in:
   * Disqualification from our upcoming Events
   * Being blocked from all platforms.
