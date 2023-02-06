@@ -40,7 +40,7 @@ We believe pickup soccer should belong to the community of amazing Chicago playe
 
 **We value community-building**
 > - Pick-up soccer games bring individuals together to form a tight-knit community.
-> - Pickup soccer provides opportunities for players to come together and create a sense of community and camaraderies toward a public good
+> - Pickup soccer provides opportunities for players to come together and create a sense of community and contribute freely and openly toward a public good
 
 **We value impact through innovation**
 > - Pick-up soccer and innovation can both be seen as spontaneous, collaborative, and adaptive processes
