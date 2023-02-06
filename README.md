@@ -51,7 +51,7 @@ We believe pickup soccer should belong to the community of amazing Chicago playe
 
 ### Join the community of local pickup soccer players!
 
-Everybody's voice matter and by being present is already a contributor.
+Everyone can be part of the pickup community, contribute, play. Let's grow it together.
 Join the community on [<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">](https://discord.com/invite/rhfCzz3Gfj), let us know you want to get involved, and let's find ways to keep Chicago pick up soccer accessible for all, affordable, fun, and community driven.
 
 <h2 align ="center"> ⭐️ More Resources </h2>
