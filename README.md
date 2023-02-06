@@ -23,11 +23,11 @@ There's more to pick-up soccer than meets the eye. Unstructured play requires or
 <h2 align ="center"> ⭐️ Mission </h2>
 Our mission is to provide an accessible and inclusive community driven by a common love of the game. Together, we provide the best pick-up soccer in the neighborhood by organizing communities and uniting players from different walks of life. 
 
-<h2 align ="center"> ⭐️ Vision 
+<h2 align ="center"> ⭐️ Vision </h2>
 To help people, local neighborhoods and other soccer groups. Our vision is to be the best community-driven pickup soccer group in Chicago.
   
 
-## ⭐️ Values 
+<h2 align ="center"> ⭐️ Values </h2>
 We believe pickup soccer should belong to the community of amazing Chicago players and fans, and that includes everyone, regardless of race, age, and gender.
 
 **We value inclusion**
@@ -46,12 +46,15 @@ We believe pickup soccer should belong to the community of amazing Chicago playe
 > - Pick-up soccer and innovation can both be seen as spontaneous, collaborative, and adaptive processes
 > - Through innovation we will develop new ideas that will be flexible and creative in their approach to find unique and impactful solutions
 
-## ⭐️ How to Get Involved
+<h2 align ="center"> ⭐️ How to Get Involved </h2>
+
 ### Join the community of local pickup soccer players!
+
 We are an organization that values the community, so everyones voice and contributions matter.  
 Join the community on [<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">](https://discord.com/invite/rhfCzz3Gfj), let us know you want to get involved, and let's find ways to keep Chicago pick up soccer accessible for all, affordable, fun, and community driven.
 
-## ⭐️ More Resources
+<h2 align ="center"> ⭐️ More Resources </h2>
+
 - [Community Code of Conduct](https://github.com/OpenFutbol/chicago-neighborhood-soccer/blob/main/CODE_OF_CONDUCT.md)
 - *Work in progress* - FAQs
 - *Work in progress* - Chicago Neighborhood Soccer - Github Pages
@@ -59,7 +62,8 @@ Join the community on [<img src="https://img.shields.io/badge/Discord-5865F2?sty
 - *Work in progress* - Collaboration
 - *Work in progress* - Initiatives  
 - *Work in progress* - Sponsors
-## ⭐️ People
+
+<h2 align ="center"> ⭐️ People </h2>
 Chicago Neighborhood soccer is maintained by pickup players in the local chicago neighborhood. Join the discord to talk to the organization and to get involved.
 
 
