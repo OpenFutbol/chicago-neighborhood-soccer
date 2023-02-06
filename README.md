@@ -41,7 +41,7 @@ We believe pickup soccer should belong to the community of amazing Chicago playe
 
 **We value impact through innovation**
 > - Pick-up soccer and innovation can both be seen as spontaneous, collaborative, and adaptive processes
-> - Though innovation we will develop new ideas that will be flexible and creative in their approach to find unique solutions
+> - Through innovation we will develop new ideas that will be flexible and creative in their approach to find unique and impactful solutions
 
 ## How to Get Involved
 ### Join the community of local pickup soccer players!
