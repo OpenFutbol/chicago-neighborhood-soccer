@@ -3,6 +3,14 @@
 </p>
 <h1 align="center"> Chicago Neighborhood Soccer </h1>
 
+- [Mission](#mission)
+- [Vision](#vision)
+- [Values](#values)
+- [How to Get Involved](#how-to-get-involved)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
+
 ## Mission 
 
 ## Vision 
