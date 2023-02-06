@@ -1,4 +1,4 @@
-#Chicago Neighborhood Soccer - Code of Conduct
+# Chicago Neighborhood Soccer - Code of Conduct
 v1.0.0, February 2023
 
 ## Motive
