@@ -16,7 +16,7 @@ Chicago Neighbhorhood Soccer, NBHD Soccer, is a homegrown grassroot organization
 
 
 ## Mission 
-Our mission is to make pickup soccer accessible and inclusive, while provide the best pickup soccer in the neighborhood by organizing communities and uniting players from different walks of life. 
+Our mission is to make pickup soccer accessible and inclusive, while providing the best pickup soccer in the neighborhood by organizing communities and uniting players from different walks of life. 
 
 
 ## Vision 
@@ -28,7 +28,7 @@ We believe pickup soccer should belong to the community of amazing Chicago playe
 
 **We value inclusion**
 > - Pick-up soccer is a game for everyone regardles of skill or background, everyone should be allowed to play
-> - Inclusive helps create a weclomcing and friendly environment where every is encouraged to participate and contribute
+> - Inclusive games create a welcoming and friendly environment where everyone is encouraged to participate and contribute
 
 **We value collaboration**
 > - Pick-up soccer games require players to work together and communitcate effectively
@@ -36,7 +36,7 @@ We believe pickup soccer should belong to the community of amazing Chicago playe
 
 **We value community-building**
 > - Pick-up soccer games bring individuals together to form a tight-knit community.
-> - Whether it's organizing regular games or hosting events, pickup soccer provides ooportunities for players to come together and create a sense of community and camaraderie
+> - Pickup soccer provides opportunities for players to come together and create a sense of community and camaraderies toward a public good
 
 **We value impact through innovation**
 > - Pick-up soccer and innovation can both be seen as spontaneous, collaborative, and adaptive processes
