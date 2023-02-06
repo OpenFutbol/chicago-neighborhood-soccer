@@ -1,9 +1,11 @@
 <p align="center">
-  <img src='https://user-images.githubusercontent.com/34843515/216865721-d7bddb15-5bac-4fd3-a8ab-7660f310f4f9.jpg' width='500px' alt="Chicago Neighborhood Soccer"/>                                                                                                                             
+  <img src='https://user-images.githubusercontent.com/34843515/216865721-d7bddb15-5bac-4fd3-a8ab-7660f310f4f9.jpg' width='250px' alt="Chicago Neighborhood Soccer"/>                                                                                                                             
 </p>
 <h1 align="center"> Chicago Neighborhood Soccer </h1>
+There's more to pickup soccer than meets the eye. Unstructured play requires organization. 
+Chicago Neighbhorhood Soccer (**NBHD Soccer**) is a homegrown grassroot organization founded and driven by local pick-up soccer players. We celebrate the players and work with local neighborhood communities. 
 
-Chicago Neighbhorhood Soccer (NBHD) is a Chicago homegrown grassroot organization geared toward championing and supporting the amazing and passioninte community of pickup soccer in chicago neighborhoods. 
+
 
 - [Mission](#mission)
 - [Vision](#vision)
@@ -14,15 +16,12 @@ Chicago Neighbhorhood Soccer (NBHD) is a Chicago homegrown grassroot organizatio
 
 
 ## Mission 
-Empower local communities to use pickup soccer as a safe and accessible  to meet new people and play without another in safe and friendly way.  
-
-Chicago pickup soccer is  amazing and passionate pickup players in the chicago neighborhoods. inclusive, passionate, and community driven pickup soccer events as a public good. 
-*and skill level! Everyone is welcome!
-
+Our mission is to make pickup soccer accessible and inclusive, while provide the best pickup soccer in the neighborhood by organizing communities and uniting players from different walks of life. 
 
 
 ## Vision 
-Unity creates strength, and our vision is to recognize and unite the community of pickup soccer leaders as an organized body to create equitable and accessible pickup soccer events in EVERY Neighborhood.  Through organized workstreams  Through pickup soccer we want to create  for fun and safe places to connect and include all.  
+To help people, local neighborhoods and other soccer groups. Our vision is to be the best community-driven pickup soccer group in Chicago.
+  
 
 ## Values 
 We believe pickup soccer should belong to the community of amazing Chicago players and fans, and that includes everyone, regardless of race, age, and gender.
@@ -32,7 +31,7 @@ We believe pickup soccer should belong to the community of amazing Chicago playe
 > - Inclusive helps create a weclomcing and friendly environment where every is encouraged to participate and contribute
 
 **We value collaboration**
-> - Pick-up soccer games require players to work goether and communitcate effectively
+> - Pick-up soccer games require players to work together and communitcate effectively
 > - Collaboration helps to build strong relationships and teamwork that extend beyond the pitch
 
 **We value community-building**
@@ -44,7 +43,7 @@ We believe pickup soccer should belong to the community of amazing Chicago playe
 > - We know we can make an impact if we coming together to tackle problems in the pickup soccer to developing new ideas that will be flexible and creative in their approach to find unique solutions
 
 ## How to Get Involved
-### Join the community!
+### Join the community of local pickup soccer players!
 We are an organization that values the community, so everyones voice and contributions matter.  
 Join the community (https://discord.gg/rhfCzz3Gfj), let us know you want to get involved, and let's find ways to keep Chicago pick up soccer accessible for all, affordable, fun, and community driven.
 
