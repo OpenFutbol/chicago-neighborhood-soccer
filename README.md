@@ -51,23 +51,23 @@ We believe pickup soccer should belong to the community of amazing Chicago playe
 
 ### Join the community of local pickup soccer players!
 
-Everyone can be part of the pickup community, contribute, play. Let's grow it together.
-Join the community on [<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">](https://discord.com/invite/rhfCzz3Gfj), let us know you want to get involved, and let's find ways to keep Chicago pick up soccer accessible for all, affordable, fun, and community driven.
+Everyone can be part of the pick-up community, be contributors, and play.
+Join the community on [<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">](https://discord.com/invite/rhfCzz3Gfj), and let us know you want to get involved. Together let's find ways to keep Chicago pick-up soccer accessible for all, affordable, fun, and community-driven.
 
 <h2 align ="center"> ⭐️ More Resources </h2>
 
 - [Community Code of Conduct](https://github.com/OpenFutbol/chicago-neighborhood-soccer/blob/main/CODE_OF_CONDUCT.md)
 - *Work in progress* - FAQs
 - *Work in progress* - Chicago Neighborhood Soccer - Github Pages
-- *Work in progress* - Chicago Pickup Soccer Aggregator 
-- *Work in progress* - Chicago Pickup Soccer Fund
+- *Work in progress* - Chicago Pick-up Soccer Aggregator 
+- *Work in progress* - Chicago Pick-up Soccer Fund
 - *Work in progress* - Community Calls
 - *Work in progress* - The Discourse Community Platform Guide
 - *Work in progress* - Roadmap  
 - *Work in progress* - Sponsors
 
 <h2 align ="center"> ⭐️ People </h2>
-Chicago Neighborhood soccer is maintained by pickup players in the local chicago neighborhood. Join the discord to talk to the community and ask to get involved as a player, contributor, maintainer, or even admin.
+Chicago Neighborhood soccer is maintained by pick-up players in the local chicago neighborhood. Join the discord to talk to the community and ask to get involved as a player, contributor, maintainer, or even admin.
 
 
 
