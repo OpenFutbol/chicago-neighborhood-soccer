@@ -9,7 +9,6 @@
 
 ## Values 
 
-
-
+## How to Get Involved
 
                                                                                                                           
