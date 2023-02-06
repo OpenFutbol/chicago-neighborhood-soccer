@@ -29,6 +29,7 @@ To help people, local neighborhoods and other soccer groups. Our vision is to be
 
 <h2 align ="center"> ⭐️ Values </h2>
 We believe pickup soccer should belong to the community of amazing Chicago players and fans, and that includes everyone, regardless of race, age, and gender.
+<p></br>
 
 **We value inclusion**
 > - Pick-up soccer is a game for everyone regardles of skill or background, everyone should be allowed to play
