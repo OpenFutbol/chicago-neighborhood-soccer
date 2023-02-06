@@ -2,8 +2,13 @@
   <img src='https://user-images.githubusercontent.com/34843515/216865721-d7bddb15-5bac-4fd3-a8ab-7660f310f4f9.jpg' width='250px' alt="Chicago Neighborhood Soccer"/>                                                                                                                             
 </p>
 <h1 align="center"> Chicago Neighborhood Soccer </h1>
+
+[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/nbhdsoccer/?hl=en) [<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">](https://www.youtube.com/@chicagoneighborhoodsoccer4644) [<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">](https://discord.com/invite/rhfCzz3Gfj) [<img src="https://img.shields.io/badge/RSVP%20to%20Play-MEETUP-blue" width='200px'>](https://www.meetup.com/nbhdsoccer/)
+
 There's more to pick-up soccer than meets the eye. Unstructured play requires organization. 
 <p> Chicago Neighbhorhood (NBHD) Soccer is a homegrown, grassroots organization founded and driven by local pick-up soccer players. We celebrate Chicago's pick-up soccer players, and we give back to our local communities. </br>
+
+
 
 
 
