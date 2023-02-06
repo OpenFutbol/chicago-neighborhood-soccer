@@ -8,7 +8,8 @@
 There's more to pick-up soccer than meets the eye. Unstructured play requires organization. 
 <p> Chicago Neighbhorhood (NBHD) Soccer is a homegrown, grassroots organization founded and driven by local pick-up soccer players. We celebrate Chicago's pick-up soccer players, and we give back to our local communities. </br>
 
- Table of Contents
+ <h2 align="center"> Table of Contents </h2>
+
 - [⭐️ Mission](#---mission)
 - [⭐️ Vision](#---vision)
 - [⭐️ Values](#---values)
@@ -17,16 +18,12 @@ There's more to pick-up soccer than meets the eye. Unstructured play requires or
 - [⭐️ More Resources](#---more-resources)
 - [⭐️ People](#---people)
 
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 
-
-
-## ⭐️ Mission 
+<h2 align ="center"> ⭐️ Mission </h2>
 Our mission is to provide an accessible and inclusive community driven by a common love of the game. Together, we provide the best pick-up soccer in the neighborhood by organizing communities and uniting players from different walks of life. 
 
-
-## ⭐️ Vision 
+<h2 align ="center"> ⭐️ Vision 
 To help people, local neighborhoods and other soccer groups. Our vision is to be the best community-driven pickup soccer group in Chicago.
   
 
@@ -56,6 +53,12 @@ Join the community on [<img src="https://img.shields.io/badge/Discord-5865F2?sty
 
 ## ⭐️ More Resources
 - [Community Code of Conduct](https://github.com/OpenFutbol/chicago-neighborhood-soccer/blob/main/CODE_OF_CONDUCT.md)
+- *Work in progress* - FAQs
+- *Work in progress* - Chicago Neighborhood Soccer - Github Pages
+- *Work in progress* - Chicago Pickup Soccer Aggregator 
+- *Work in progress* - Collaboration
+- *Work in progress* - Initiatives  
+- *Work in progress* - Sponsors
 ## ⭐️ People
 Chicago Neighborhood soccer is maintained by pickup players in the local chicago neighborhood. Join the discord to talk to the organization and to get involved.
 
