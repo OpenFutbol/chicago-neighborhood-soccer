@@ -1,8 +1,8 @@
-# Chicago Neighborhood Soccer - Code of Conduct
+# Code of Conduct
 v1.0.0, February 2023
 
 ## Motive
-In adopting this Community Code of Conduct, we are committed to strengthen a welcoming surrounding for joint effort, innovation, and the free exchange of ideas for developing, maintaining, and using open source software. We pledge to certify all contributor to actively engage and help build an open source community for pickup soccer as a public good.
+In adopting this Chicago Soccer Neighborhood (NBHD) Community Code of Conduct, we are committed to strengthen a welcoming surrounding for joint effort, innovation, and the free exchange of ideas for developing, maintaining, and using open source software. We pledge to certify all contributor to actively engage and help build an open source community for pickup soccer as a public good.
 
 We want all members of this community to interact regardless of race, gender identity, religion, creed, color, marital status, genetic information, age, nationality or any other disability.
 
