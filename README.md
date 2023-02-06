@@ -5,11 +5,9 @@
 
 ## Mission 
 
-
-
-
 ## Vision 
 
+## Values 
 
 
 
