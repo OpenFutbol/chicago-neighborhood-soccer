@@ -60,8 +60,9 @@ Join the community on [<img src="https://img.shields.io/badge/Discord-5865F2?sty
 - *Work in progress* - Chicago Neighborhood Soccer - Github Pages
 - *Work in progress* - Chicago Pickup Soccer Aggregator 
 - *Work in progress* - Chicago Pickup Soccer Fund
-- *Work in progress* - Collaboration
-- *Work in progress* - Initiatives  
+- *Work in progress* - Community Calls
+- *Work in progress* - The Discourse Community Platform Guide
+- *Work in progress* - Roadmap  
 - *Work in progress* - Sponsors
 
 <h2 align ="center"> ⭐️ People </h2>
