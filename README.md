@@ -32,11 +32,11 @@ We believe pickup soccer should belong to the community of amazing Chicago playe
 <p></br>
 
 **We value inclusion**
-> - Pick-up soccer is a game for everyone regardles of skill or background, everyone should be allowed to play
+> - Pick-up soccer is a game for everyone regardless of skill or background, everyone should be allowed to play
 > - Inclusive games create a welcoming and friendly environment where everyone is encouraged to participate and contribute
 
 **We value collaboration**
-> - Pick-up soccer games require players to work together and communitcate effectively
+> - Pick-up soccer games require players to work together and communicate effectively
 > - Collaboration helps to build strong relationships and teamwork that extend beyond the pitch
 
 **We value community-building**
