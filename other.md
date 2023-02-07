@@ -6,7 +6,7 @@
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/nbhdsoccer/?hl=en) [<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">](https://www.youtube.com/@chicagoneighborhoodsoccer4644) [<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">](https://discord.com/invite/rhfCzz3Gfj) [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S1IIQEH) [<img src="https://img.shields.io/badge/RSVP%20to%20Play-MEETUP-blue" width=170px>](https://www.meetup.com/nbhdsoccer) 
 
 There's more to pick-up soccer than meets the eye. Even unstructured play requires organization. 
-<p> Chicago Neighborhood (NBHD) Soccer is a homegrown, grassroots organization founded and driven by local pick-up soccer players. We celebrate Chicago's pick-up soccer players, and we give back to our local communities. </br> 
+<p> [Chicago Neighborhood (NBHD) Soccer]((https://github.com/OpenFutbol/chicago-neighborhood-soccer/wiki) is a homegrown, grassroots organization founded and driven by local pick-up soccer players. We celebrate Chicago's pick-up soccer players, and we give back to our local communities. </br> 
 
 
 
@@ -55,11 +55,14 @@ We believe pickup soccer should belong to the community of amazing Chicago playe
 ### Join the community of local pickup soccer players!
 
 Everyone can be part of the pick-up community, be contributors, and play [<img src="https://img.shields.io/badge/RSVP%20to%20Play-MEETUP-blue">](https://www.meetup.com/nbhdsoccer) 
-.
-Join the community on [<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">](https://discord.com/invite/rhfCzz3Gfj), and let us know you want to get involved. Together let's find ways to keep Chicago pick-up soccer accessible for all, affordable, fun, and community-driven.
+- Join the community on [<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">](https://discord.com/invite/rhfCzz3Gfj)
+- Fill out the [Chicago Neighborhood Soccer Community Contributor Signup](https://docs.google.com/forms/d/18c6h3QUnWgfAu97f5767hQNEqfUNeE8Fwv5MiS8mGdk/viewform?edit_requested=true) to let us know you want to get involved. 
+
+Together let's find ways to keep Chicago pick-up soccer accessible for all, affordable, fun, and community-driven.
 
 <h2 align ="center"> ⭐️ More Resources </h2>
-
+- [Chicago Neighborhood Soccer Wiki](https://github.com/OpenFutbol/chicago-neighborhood-soccer/wiki)
+- [Chicago Neighborhood Soccer Community Contributor Signup](https://docs.google.com/forms/d/18c6h3QUnWgfAu97f5767hQNEqfUNeE8Fwv5MiS8mGdk/viewform?edit_requested=true)
 - [Community Code of Conduct](https://github.com/OpenFutbol/chicago-neighborhood-soccer/blob/main/CODE_OF_CONDUCT.md)
 - *Work in progress* - FAQs
 - *Work in progress* - Chicago Neighborhood Soccer - Github Pages
