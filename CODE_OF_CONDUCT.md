@@ -1,31 +1,54 @@
 # Code of Conduct
+Chicago Neighborhood Soccer 
 v1.0.0, February 2023
 
 ## Motive
-In adopting this Chicago Soccer Neighborhood (NBHD) Community Code of Conduct, we are committed to strengthen a welcoming surrounding for joint effort, innovation, and the free exchange of ideas for developing, maintaining, and using open source software. We pledge to certify all contributor to actively engage and help build an open source community for pickup soccer as a public good.
+In adopting this Code of Conduct, we all are committed toward creating a welcoming environment to promote three exchange of ideas through collaboraion for  innovation. This includes but is not limited to developing, maintaining, and using open source software. We pledge to activity maintain contribution and help build an open source community for pickup soccer as a public good.
 
-We want all members of this community to interact regardless of race, gender identity, religion, creed, color, marital status, genetic information, age, nationality or any other disability.
+# Our Community
+Members of the Python community are open, considerate, and respectful. Behaviours that reinforce these values contribute to a positive environment, and include:
 
-## Belief
-Community Values we promote:
+- Being open. Members of the community are open to collaboration, whether it's on PEPs, patches, problems, or otherwise.
+- Focusing on what is best for the community. We're respectful of the processes set forth in the community, and we work within them.
+- Acknowledging time and effort. We're respectful of the volunteer efforts that permeate the Python community. We're thoughtful when addressing the efforts of others, keeping in mind that often times the labor was completed simply for the good of the community.
+- Being respectful of differing viewpoints and experiences. We're receptive to constructive comments and criticism, as the experiences and skill sets of other members contribute to the whole of our efforts.
+- Showing empathy towards other community members. We're attentive in our communications, whether in person or online, and we're tactful when approaching differing views.
+- Being considerate. Members of the community are considerate of their peers -- other Python users.
+- Being respectful. We're respectful of others, their positions, their skills, their commitments, and their efforts.
+- Gracefully accepting constructive criticism. When we disagree, we are courteous in raising our issues.
+- Using welcoming and inclusive language. We're accepting of all who wish to take part in our activities, fostering an environment where anyone can participate and everyone can make a difference.
 
-- Be audience centered
-- Be calm and professional in discussions and communicate via active listening
-- Respectfully accepting evaluation and disapproval
-- Always aim best for the community
-- Respect all members of the community
+# Our Standard
+Every member of our community has the right to have their identity respected. The Python community is dedicated to providing a positive experience for everyone, regardless of age, gender identity and expression, sexual orientation, disability, physical appearance, body size, ethnicity, nationality, race, or religion (or lack thereof), education, or socio-economic status.
 
-Values we do not promote:
 
-- Any kind of harassment, aggression, and intimidation
-- Personal threats & attacks, Stalking, vulgar language, Insulting statement
-- Sharing disrespecttful sketches or cartoons
-- Disparaging Posting(social media, email etc.) on members of the community
+# Inappropraite behavior 
+
+Examples of unacceptable behavior by participants include:
+
+- Harassment of any participants in any form
+- Deliberate intimidation, stalking, or following
+- Logging or taking screenshots of online activity for harassment purposes
+- Publishing others' private information, such as a physical or electronic address, without explicit permission
+- Violent threats or language directed against another person
+- Incitement of violence or harassment towards any individual, including encouraging a person to commit suicide or to engage in self-harm
+- Creating additional online accounts in order to harass another person or circumvent a ban
+- Sexual language and imagery in online communities or in any conference venue, including talks
+- Insults, put downs, or jokes that are based upon stereotypes, that are exclusionary, or that hold others up for ridicule
+- Excessive swearing
+- Unwelcome sexual attention or advances
+- Unwelcome physical contact, including simulated physical contact (eg, textual descriptions like "hug" or "backrub") without consent or after a request to stop
+- Pattern of inappropriate social contact, such as requesting/assuming inappropriate levels of intimacy with others
+- Sustained disruption of online community discussions, in-person presentations, or other in-person events
+- Continued one-on-one communication after requests to cease
+- Other conduct that is inappropriate for a professional audience including people of many different backgrounds
+- Community members asked to stop any inappropriate behavior are expected to comply immediately.
 
 ## Reporting
 Community & Project maintainers/admins have all the rights to remove offensive content that are not aligned with our code of conduct. To report any complaint or inappropriate behavior you can also contact [nbhdsoccer@gmail.com](mailto:nbhdsoccer@gmail.com).
 
+
 ## Enforcement
-If the NBHD team receives any misconduct which voilates our values, then violations of this Code of Conduct may result in:
+If the OpenFutbol / NBHD team receives any misconduct which voilates our values, then violations of this Code of Conduct may result in:
   * Disqualification from our upcoming Events
   * Being blocked from all platforms.
