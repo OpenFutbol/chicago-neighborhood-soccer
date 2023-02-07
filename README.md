@@ -55,9 +55,12 @@ We believe pickup soccer should belong to the community of amazing Chicago playe
 
 ### Join the community of local pickup soccer players!
 
-Everyone can be part of the pick-up community, be contributors, and play [<img src="https://img.shields.io/badge/RSVP%20to%20Play-MEETUP-blue">](https://www.meetup.com/nbhdsoccer) 
-- Join the community on [<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">](https://discord.com/invite/rhfCzz3Gfj)
+Everyone can be part of the pick-up community and be contributors.  
 - Fill out the [Chicago Neighborhood Soccer Community Contributor Signup](https://docs.google.com/forms/d/18c6h3QUnWgfAu97f5767hQNEqfUNeE8Fwv5MiS8mGdk/viewform?edit_requested=true) to let us know you want to get involved. 
+- Join the community on [<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">](https://discord.com/invite/rhfCzz3Gfj)
+- Play pickup soccer with the community on meetup [<img src="https://img.shields.io/badge/RSVP%20to%20Play-MEETUP-blue">](https://www.meetup.com/nbhdsoccer) 
+- Learn github and submit a pull request to fix a typo.  We are looking for admins on discord, github, and in the pick-up soccer scene. 
+
 
 Together let's find ways to keep Chicago pick-up soccer accessible for all, affordable, fun, and community-driven.
 
