@@ -65,6 +65,7 @@ Everyone can be part of the pick-up community and be contributors.
 Together let's find ways to keep Chicago pick-up soccer accessible for all, affordable, fun, and community-driven.
 
 <h2 align ="center"> ⭐️ More Resources </h2>
+
 - [Chicago Neighborhood Soccer Wiki](https://github.com/OpenFutbol/chicago-neighborhood-soccer/wiki)
 - [Chicago Neighborhood Soccer Community Contributor Signup](https://docs.google.com/forms/d/18c6h3QUnWgfAu97f5767hQNEqfUNeE8Fwv5MiS8mGdk/viewform?edit_requested=true)
 - [Community Code of Conduct](https://github.com/OpenFutbol/chicago-neighborhood-soccer/blob/main/CODE_OF_CONDUCT.md)
