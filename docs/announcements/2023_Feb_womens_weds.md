@@ -30,7 +30,7 @@ We plan on doing more for women's pickup soccer!  To do that, we need to start c
 
 </br>
 
-> **Starting next week, February 15, 2023, it will be $8 to RSVP for Women's Wednesday**
+> *Starting next week, February 15, 2023, it will be $8 to RSVP for Women's Wednesday*
 
 </br>
 
@@ -43,7 +43,7 @@ Our goal is to be community-driven. *Checkout our Mission, Vision, and Values at
 
 1. **Join the [Chicago-Neighborhood-Soccer Discord](https://discord.gg/rhfCzz3Gfj) [<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">](https://discord.com/invite/rhfCzz3Gfj)**
 **
-> **And Specifically join private channel "women's only" on the discord. DM the Admin- "Andre Zuzu" to add you. It's for you! You can also look there to see private links to raw pick-up soccer video we record, and photos we take**
+> *And Specifically join private channel "women's only" on the discord. DM the Admin- "Andre Zuzu" to add you. It's for you! You can also look there to see private links to raw pick-up soccer video we record, and photos we take*
 
 2. **Want to be an NBHD Community Leader?  Let us know by filling out this [google survey](https://docs.google.com/forms/d/18c6h3QUnWgfAu97f5767hQNEqfUNeE8Fwv5MiS8mGdk/viewform?edit_requested=true).  Everyone is invited to be a leader.**
 
