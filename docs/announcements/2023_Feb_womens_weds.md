@@ -16,7 +16,7 @@ Thank you for coming out and kicking it with us. We are ecstatic about having yo
 
 In these past 12 months, we have grown over 1,000 new members on meetup! Almost 20% of that has been women!  
 
-> *Special shout out to Shelby Ponder and Nicole Hack for working with us to make this happen*
+> *Special shout out to Community Leaders Shelby Ponder and Nicole Hack for working with us to make this happen*
 
 
 </br>
