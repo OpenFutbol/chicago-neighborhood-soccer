@@ -1,13 +1,10 @@
+# Hello, Women’s Wednesday! 
+
 *February 2023 - Womens Wednesday Price Change*
 
 >Starting next week, February 15, 2023, it will be $8 to RSVP for Women's Wednesday. 
 
 <img src="https://user-images.githubusercontent.com/34843515/217692129-4d4aec29-18d4-41ab-bc20-5f91f5cb6ab9.png" height=100px>
-
----
-</br>
-
-# Hello, Women’s Wednesday! 
 
 </br>
 
