@@ -6,7 +6,7 @@ v1.0.0, February 2023
 In adopting this Code of Conduct, we all are committed toward creating a welcoming environment to promote the exchange of ideas through collaboraion for  innovation. This includes but is not limited to developing, maintaining, and using open source software. We pledge to activity maintain contribution and help build an open source community for pickup soccer as a public good.
 
 # Our Community
-Members of the Python community are open, considerate, and respectful. Behaviours that reinforce these values contribute to a positive environment, and include:
+Members of the Chicago Neighborhood Soccer community are open, considerate, and respectful. Behaviours that reinforce these values contribute to a positive environment, and include:
 
 - Being open. Members of the community are open to collaboration, whether it's on PEPs, patches, problems, or otherwise.
 - Focusing on what is best for the community. We're respectful of the processes set forth in the community, and we work within them.
