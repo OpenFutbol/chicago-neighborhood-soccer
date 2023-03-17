@@ -1,9 +1,9 @@
 # Code of Conduct
-Chicago Neighborhood Soccer 
+Chicago Neighborhood Soccer (aka NBHD Soccer)
 v1.0.0, February 2023
 
 ## Motive
-In adopting this Code of Conduct, we all are committed toward creating a welcoming environment to promote the exchange of ideas through collaboraion for  innovation. This includes but is not limited to developing, maintaining, and using open source software. We pledge to activity maintain contribution and help build an open source community for pickup soccer as a public good.
+In adopting this Code of Conduct, we all are committed toward creating a welcoming environment to promote the exchange of ideas through collaboraion for  innovation. This includes but is not limited to developing, maintaining, and using open source software. We pledge to actively maintain contribution and help build an open source community for pickup soccer as a public good.
 
 # Our Community
 Members of the Chicago Neighborhood Soccer community are open, considerate, and respectful. Behaviours that reinforce these values contribute to a positive environment, and include:
@@ -19,7 +19,7 @@ Members of the Chicago Neighborhood Soccer community are open, considerate, and 
 - Using welcoming and inclusive language. We're accepting of all who wish to take part in our activities, fostering an environment where anyone can participate and everyone can make a difference.
 
 # Our Standard
-Every member of our community has the right to have their identity respected. The Python community is dedicated to providing a positive experience for everyone, regardless of age, gender identity and expression, sexual orientation, disability, physical appearance, body size, ethnicity, nationality, race, or religion (or lack thereof), education, or socio-economic status.
+Every member of our community has the right to have their identity respected. The NBHD Soccer community is dedicated to providing a positive experience for everyone, regardless of age, gender identity and expression, sexual orientation, disability, physical appearance, body size, ethnicity, nationality, race, or religion (or lack thereof), education, or socio-economic status.
 
 
 # Inappropraite behavior 
@@ -49,6 +49,6 @@ Community & Project maintainers/admins have all the rights to remove offensive c
 
 
 ## Enforcement
-If the OpenFutbol / NBHD team receives any misconduct which voilates our values, then violations of this Code of Conduct may result in:
+If the NBHD Soccer Community receives any misconduct which voilates our values, then violations of this Code of Conduct may result in:
   * Disqualification from our upcoming Events
   * Being blocked from all platforms.
